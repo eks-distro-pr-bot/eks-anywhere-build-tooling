@@ -58,7 +58,7 @@ if [[ "${JOB_TYPE:-}" == "periodic" ]] || [[ -n "${CODEBUILD_CI:-}" ]]; then
 
     # there will be conflicts before we are on the bots fork at this point
     # -Xtheirs instructs git to favor the changes from the current branch
-    build::common::echo_and_run git rebase -Xtheirs upstream/$MAIN_BRANCH
+    build::common::echo_and_run git rebase -Xtheirs upstream/main
 fi
 
 if [ "$(git stash list)" != "" ]; then

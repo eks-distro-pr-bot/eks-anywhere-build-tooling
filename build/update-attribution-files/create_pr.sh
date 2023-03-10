@@ -28,7 +28,7 @@ ORIGIN_ORG="eks-distro-pr-bot"
 UPSTREAM_ORG="aws"
 REPO="eks-anywhere-build-tooling"
 
-MAIN_BRANCH="main"
+MAIN_BRANCH="jgw/fix-prow-periodic"
 
 if [[ -n "${CODEBUILD_SOURCE_VERSION:-}" ]]; then
     MAIN_BRANCH="$CODEBUILD_SOURCE_VERSION"

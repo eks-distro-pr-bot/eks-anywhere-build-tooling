@@ -1141,7 +1141,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ------
 
 ** github.com/imdario/mergo; version v0.3.16 --
-https://github.com/darccio/mergo
+https://github.com/imdario/mergo
 
 Copyright (c) 2013 Dario Castañé. All rights reserved.
 Copyright (c) 2012 The Go Authors. All rights reserved.
@@ -1180,7 +1180,7 @@ https://github.com/liggitt/tabwriter
 ** github.com/ProtonMail/go-crypto; version v1.0.0 --
 https://github.com/ProtonMail/go-crypto
 
-** golang.org/go; version go1.22.8 --
+** golang.org/go; version go1.22.9 --
 https://github.com/golang/go
 
 ** golang.org/x/crypto; version v0.22.0 --

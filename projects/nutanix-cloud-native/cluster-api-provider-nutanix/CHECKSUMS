@@ -1,2 +1,2 @@
-dbccb34b64cf3766213ff8ea1c1fe8dc5e9309978cbad277d28227962f7b68ea  _output/bin/cluster-api-provider-nutanix/linux-amd64/manager
-f59088ca4ccaac1b4c3e9eb9118cfd0ee41d5f4b06dbb1e874a836b0e1c88b4c  _output/bin/cluster-api-provider-nutanix/linux-arm64/manager
+1305aa3f6c98769f49f81c3f2936974b0606a49bddfbd9db92fe10f6ef9d84e2  _output/bin/cluster-api-provider-nutanix/linux-amd64/manager
+67870b6ff56e860b5f851c305be1067e55e42bb7b7a9df33d4c473c720e821ed  _output/bin/cluster-api-provider-nutanix/linux-arm64/manager

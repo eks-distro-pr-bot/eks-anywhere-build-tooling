@@ -506,9 +506,6 @@ https://github.com/bahlo/generic-list-go
 ** github.com/liggitt/tabwriter; version v0.0.0-20181228230101-89fcab3d43de --
 https://github.com/liggitt/tabwriter
 
-** golang.org/go; version go1.23.10 --
-https://github.com/golang/go
-
 ** k8s.io/apimachinery/third_party/forked/golang; version v0.32.0-rc.2 --
 https://github.com/kubernetes/apimachinery
 
@@ -820,6 +817,12 @@ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
+------
+
+** golang.org/go; version go1.23.10 --
+https://github.com/golang/go
+
+404: Not Found
 ------
 
 ** golang.org/x/net; version v0.30.0 --

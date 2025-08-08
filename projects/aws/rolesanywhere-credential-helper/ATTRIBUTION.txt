@@ -220,9 +220,6 @@ Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
 ** github.com/aws/aws-sdk-go/internal/sync/singleflight; version v1.44.57 --
 https://github.com/aws/aws-sdk-go
 
-** golang.org/go; version go1.18.10 --
-https://github.com/golang/go
-
 Copyright (c) 2009 The Go Authors. All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -251,4 +248,10 @@ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
+------
+
+** golang.org/go; version go1.18.10 --
+https://github.com/golang/go
+
+404: Not Found
 ------

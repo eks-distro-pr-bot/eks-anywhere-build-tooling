@@ -1881,7 +1881,7 @@ https://github.com/mailru/easyjson
 Copyright (c) 2016 Mail.Ru Group
 
 ** github.com/MakeNowJust/heredoc; version v1.0.0 --
-https://github.com/makenowjust/heredoc
+https://github.com/MakeNowJust/heredoc
 Copyright (c) 2014-2019 TSUYUSATO Kitsune
 
 ** github.com/mitchellh/go-homedir; version v1.1.0 --

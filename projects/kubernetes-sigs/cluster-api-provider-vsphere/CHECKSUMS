@@ -1,2 +1,2 @@
-46bd017b1f18bd18c82f9acf2afaadcff22394ee9c23138c1b1cd57f088ec0f1  _output/bin/cluster-api-provider-vsphere/linux-amd64/manager
-58e242ed2e5d4102b741d2cd3ec556db614350c9a125f9fd6be3b88d20a24681  _output/bin/cluster-api-provider-vsphere/linux-arm64/manager
+f3d0036323624a2f30f5d9f263998e605a25b81fc0bd53d6dbebf9a5a4193838  _output/bin/cluster-api-provider-vsphere/linux-amd64/manager
+f04f926d03ded83ac4a9664bfe66219b61c172e86f94d33856b63bd8fba6be69  _output/bin/cluster-api-provider-vsphere/linux-arm64/manager

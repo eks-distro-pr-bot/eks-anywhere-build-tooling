@@ -1,2 +1,2 @@
-3c16acc86f17dbb1c359913fd63addec298afd8cc4bdbfe67c82603989179ee6  _output/1-35/bin/cloud-provider-aws/linux-amd64/ecr-credential-provider
-ff12db8a562153f0e92ba91ae7d16ae3b1b6252317d67e5a9ec0249fff32c269  _output/1-35/bin/cloud-provider-aws/linux-arm64/ecr-credential-provider
+f0cbdccd3a3657cc28bcdca5ee8dbce5faf7f13c98598ac40ceda87b997a8ff9  _output/1-35/bin/cloud-provider-aws/linux-amd64/ecr-credential-provider
+2888b773adbde3363059e1c2a172962b6dc79b4b1500c90c2ae269e2b5fec12b  _output/1-35/bin/cloud-provider-aws/linux-arm64/ecr-credential-provider

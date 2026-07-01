@@ -116,28 +116,28 @@ https://github.com/envoyproxy/go-control-plane/envoy
 ** github.com/envoyproxy/protoc-gen-validate/validate; version v1.3.3 --
 https://github.com/bufbuild/protoc-gen-validate
 
-** github.com/fluxcd/cli-utils/pkg; version v1.2.1 --
+** github.com/fluxcd/cli-utils/pkg; version v1.2.2 --
 https://github.com/fluxcd/cli-utils
 
-** github.com/fluxcd/kustomize-controller; version v1.9.0 --
+** github.com/fluxcd/kustomize-controller; version v1.9.1 --
 https://github.com/fluxcd/kustomize-controller
 
-** github.com/fluxcd/kustomize-controller/api/v1; version v1.9.0 --
+** github.com/fluxcd/kustomize-controller/api/v1; version v1.9.1 --
 https://github.com/fluxcd/kustomize-controller/api
 
 ** github.com/fluxcd/pkg/apis/acl; version v0.10.0 --
 https://github.com/fluxcd/pkg/apis/acl
 
-** github.com/fluxcd/pkg/apis/event/v1beta1; version v0.27.0 --
+** github.com/fluxcd/pkg/apis/event/v1beta1; version v0.27.1 --
 https://github.com/fluxcd/pkg/apis/event
 
-** github.com/fluxcd/pkg/apis/kustomize; version v1.19.0 --
+** github.com/fluxcd/pkg/apis/kustomize; version v1.19.1 --
 https://github.com/fluxcd/pkg/apis/kustomize
 
-** github.com/fluxcd/pkg/apis/meta; version v1.30.0 --
+** github.com/fluxcd/pkg/apis/meta; version v1.30.1 --
 https://github.com/fluxcd/pkg/apis/meta
 
-** github.com/fluxcd/pkg/auth; version v0.54.0 --
+** github.com/fluxcd/pkg/auth; version v0.54.1 --
 https://github.com/fluxcd/pkg/auth
 
 ** github.com/fluxcd/pkg/cache; version v0.14.0 --
@@ -149,16 +149,16 @@ https://github.com/fluxcd/pkg/envsubst
 ** github.com/fluxcd/pkg/http/fetch; version v0.25.0 --
 https://github.com/fluxcd/pkg/http/fetch
 
-** github.com/fluxcd/pkg/kustomize; version v1.35.0 --
+** github.com/fluxcd/pkg/kustomize; version v1.35.1 --
 https://github.com/fluxcd/pkg/kustomize
 
-** github.com/fluxcd/pkg/runtime; version v0.110.0 --
+** github.com/fluxcd/pkg/runtime; version v0.110.1 --
 https://github.com/fluxcd/pkg/runtime
 
 ** github.com/fluxcd/pkg/sourceignore; version v0.18.0 --
 https://github.com/fluxcd/pkg/sourceignore
 
-** github.com/fluxcd/pkg/ssa; version v0.76.0 --
+** github.com/fluxcd/pkg/ssa; version v0.76.1 --
 https://github.com/fluxcd/pkg/ssa
 
 ** github.com/fluxcd/source-controller/api/v1; version v1.9.0 --
@@ -341,22 +341,22 @@ https://github.com/grpc/grpc-go
 ** gopkg.in/ini.v1; version v1.67.2 --
 https://gopkg.in/ini.v1
 
-** k8s.io/api; version v0.36.1 --
+** k8s.io/api; version v0.36.2 --
 https://github.com/kubernetes/api
 
-** k8s.io/apiextensions-apiserver/pkg/apis/apiextensions; version v0.36.1 --
+** k8s.io/apiextensions-apiserver/pkg/apis/apiextensions; version v0.36.2 --
 https://github.com/kubernetes/apiextensions-apiserver
 
-** k8s.io/apimachinery/pkg; version v0.36.1 --
+** k8s.io/apimachinery/pkg; version v0.36.2 --
 https://github.com/kubernetes/apimachinery
 
-** k8s.io/cli-runtime/pkg; version v0.36.1 --
+** k8s.io/cli-runtime/pkg; version v0.36.2 --
 https://github.com/kubernetes/cli-runtime
 
-** k8s.io/client-go; version v0.36.1 --
+** k8s.io/client-go; version v0.36.2 --
 https://github.com/kubernetes/client-go
 
-** k8s.io/component-base; version v0.36.1 --
+** k8s.io/component-base; version v0.36.2 --
 https://github.com/kubernetes/component-base
 
 ** k8s.io/klog/v2; version v2.140.0 --
@@ -368,7 +368,7 @@ https://github.com/kubernetes/kube-openapi
 ** k8s.io/kube-openapi/pkg/validation/spec; version v0.0.0-20260603220949-865597e52e25 --
 https://github.com/kubernetes/kube-openapi
 
-** k8s.io/kubectl/pkg; version v0.36.1 --
+** k8s.io/kubectl/pkg; version v0.36.2 --
 https://github.com/kubernetes/kubectl
 
 ** k8s.io/utils; version v0.0.0-20260507154919-ff6756f316d2 --
@@ -962,10 +962,10 @@ https://github.com/liggitt/tabwriter
 ** github.com/ProtonMail/go-crypto; version v1.4.1 --
 https://github.com/ProtonMail/go-crypto
 
-** k8s.io/apimachinery/third_party/forked/golang; version v0.36.1 --
+** k8s.io/apimachinery/third_party/forked/golang; version v0.36.2 --
 https://github.com/kubernetes/apimachinery
 
-** k8s.io/client-go/third_party/forked/golang/template; version v0.36.1 --
+** k8s.io/client-go/third_party/forked/golang/template; version v0.36.2 --
 https://github.com/kubernetes/client-go
 
 Copyright (c) 2009 The Go Authors. All rights reserved.
@@ -1004,28 +1004,28 @@ https://github.com/FiloSottile/hpke
 ** golang.org/go; version go1.26.4 --
 https://github.com/golang/go
 
-** golang.org/x/crypto; version v0.52.0 --
+** golang.org/x/crypto; version v0.53.0 --
 https://golang.org/x/crypto
 
 ** golang.org/x/exp/slices; version v0.0.0-20251219203646-944ab1f22d93 --
 https://golang.org/x/exp
 
-** golang.org/x/net; version v0.55.0 --
+** golang.org/x/net; version v0.56.0 --
 https://golang.org/x/net
 
 ** golang.org/x/oauth2; version v0.36.0 --
 https://golang.org/x/oauth2
 
-** golang.org/x/sync; version v0.20.0 --
+** golang.org/x/sync; version v0.21.0 --
 https://golang.org/x/sync
 
-** golang.org/x/sys; version v0.45.0 --
+** golang.org/x/sys; version v0.46.0 --
 https://golang.org/x/sys
 
-** golang.org/x/term; version v0.43.0 --
+** golang.org/x/term; version v0.44.0 --
 https://golang.org/x/term
 
-** golang.org/x/text; version v0.37.0 --
+** golang.org/x/text; version v0.38.0 --
 https://golang.org/x/text
 
 ** golang.org/x/time/rate; version v0.15.0 --
@@ -2069,7 +2069,7 @@ Copyright (c) 2013 Mitchell Hashimoto
 https://github.com/monochromegane/go-gitignore
 Copyright (c) [2015] [go-gitignore]
 
-** github.com/onsi/gomega; version v1.41.0 --
+** github.com/onsi/gomega; version v1.42.1 --
 https://github.com/onsi/gomega
 Copyright (c) 2013-2014 Onsi Fakhouri
 
@@ -2241,7 +2241,7 @@ limitations under the License.
 
 ------
 
-** k8s.io/client-go/third_party/forked/httpcache; version v0.36.1 --
+** k8s.io/client-go/third_party/forked/httpcache; version v0.36.2 --
 https://github.com/kubernetes/client-go
 
 Copyright © 2012 Greg Jones (greg.jones@gmail.com)

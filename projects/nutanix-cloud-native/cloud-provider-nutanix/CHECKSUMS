@@ -1,2 +1,2 @@
-4d780bf6bb365cb83040acc9bf15a4533aa1106afab08b31a98a780614d02092  _output/bin/cloud-provider-nutanix/linux-amd64/controller
-265d6cd562b3caae5fb9325e6b893b1001e99760af97738e08313eb5c8f12ebe  _output/bin/cloud-provider-nutanix/linux-arm64/controller
+a2894fe10d84ded0ee2cc1f2f72530d70676bff7fd23b9c661faea1437188ae9  _output/bin/cloud-provider-nutanix/linux-amd64/controller
+daf71f9e00493c0b5598072a2fd4e9beb764431d13c7c4df5466f83c41292ac9  _output/bin/cloud-provider-nutanix/linux-arm64/controller

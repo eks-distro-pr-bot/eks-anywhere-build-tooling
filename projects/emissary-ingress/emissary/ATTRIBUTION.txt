@@ -21,7 +21,7 @@ https://github.com/emissary-ingress/emissary/v3
 https://github.com/emissary-ingress/emissary/v3
 
 ** github.com/envoyproxy/protoc-gen-validate/validate; version v1.2.1 --
-https://github.com/bufbuild/protoc-gen-validate
+https://github.com/envoyproxy/protoc-gen-validate
 
 ** github.com/go-logr/logr; version v1.4.2 --
 https://github.com/go-logr/logr
@@ -1080,28 +1080,28 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ------
 
 ** golang.org/x/exp/slices; version v0.0.0-20250128182459-e0ece0dbea4c --
-https://golang.org/x/exp
+https://go.googlesource.com/exp
 
 ** golang.org/x/net; version v0.34.0 --
-https://golang.org/x/net
+https://go.googlesource.com/net
 
 ** golang.org/x/oauth2; version v0.26.0 --
-https://golang.org/x/oauth2
+https://go.googlesource.com/oauth2
 
 ** golang.org/x/sync/errgroup; version v0.11.0 --
-https://golang.org/x/sync
+https://go.googlesource.com/sync
 
 ** golang.org/x/sys/unix; version v0.30.0 --
-https://golang.org/x/sys
+https://go.googlesource.com/sys
 
 ** golang.org/x/term; version v0.29.0 --
-https://golang.org/x/term
+https://go.googlesource.com/term
 
 ** golang.org/x/text; version v0.22.0 --
-https://golang.org/x/text
+https://go.googlesource.com/text
 
 ** golang.org/x/time/rate; version v0.10.0 --
-https://golang.org/x/time
+https://go.googlesource.com/time
 
 Copyright 2009 The Go Authors.
 
@@ -1288,7 +1288,7 @@ OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 ------
 
 ** github.com/armon/go-metrics; version v0.4.1 --
-https://github.com/hashicorp/go-metrics
+https://github.com/armon/go-metrics
 Copyright (c) 2013 Armon Dadgar
 
 ** github.com/beorn7/perks/quantile; version v1.0.1 --

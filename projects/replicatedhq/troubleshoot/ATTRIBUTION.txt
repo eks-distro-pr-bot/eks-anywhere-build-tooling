@@ -24,7 +24,7 @@ https://github.com/googleapis/google-cloud-go
 https://github.com/googleapis/google-cloud-go
 
 ** github.com/ahmetalpbalkan/go-cursor; version v0.0.0-20131010032410-8136607ea412 --
-https://github.com/ahmetb/go-cursor
+https://github.com/ahmetalpbalkan/go-cursor
 
 ** github.com/aws/aws-sdk-go-v2; version v1.41.11 --
 https://github.com/aws/aws-sdk-go-v2
@@ -117,7 +117,7 @@ https://github.com/docker/cli
 https://github.com/envoyproxy/go-control-plane/envoy
 
 ** github.com/envoyproxy/protoc-gen-validate/validate; version v1.3.0 --
-https://github.com/bufbuild/protoc-gen-validate
+https://github.com/envoyproxy/protoc-gen-validate
 
 ** github.com/go-jose/go-jose/v4; version v4.1.4 --
 https://github.com/go-jose/go-jose/v4
@@ -1635,31 +1635,31 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 https://github.com/golang/go
 
 ** golang.org/x/crypto; version v0.52.0 --
-https://golang.org/x/crypto
+https://go.googlesource.com/crypto
 
 ** golang.org/x/mod/semver; version v0.36.0 --
-https://golang.org/x/mod
+https://go.googlesource.com/mod
 
 ** golang.org/x/net; version v0.55.0 --
-https://golang.org/x/net
+https://go.googlesource.com/net
 
 ** golang.org/x/oauth2; version v0.36.0 --
-https://golang.org/x/oauth2
+https://go.googlesource.com/oauth2
 
 ** golang.org/x/sync; version v0.20.0 --
-https://golang.org/x/sync
+https://go.googlesource.com/sync
 
 ** golang.org/x/sys; version v0.45.0 --
-https://golang.org/x/sys
+https://go.googlesource.com/sys
 
 ** golang.org/x/term; version v0.43.0 --
-https://golang.org/x/term
+https://go.googlesource.com/term
 
 ** golang.org/x/text; version v0.37.0 --
-https://golang.org/x/text
+https://go.googlesource.com/text
 
 ** golang.org/x/time/rate; version v0.15.0 --
-https://golang.org/x/time
+https://go.googlesource.com/time
 
 Copyright 2009 The Go Authors.
 
@@ -1903,7 +1903,7 @@ https://github.com/c9s/goprocinfo
 Copyright (c) 2013-2014 Yo-An Lin
 
 ** github.com/casbin/govaluate; version v1.10.0 --
-https://github.com/apache/casbin-govaluate
+https://github.com/casbin/govaluate
 Copyright (c) 2014-2016 George Lester
 
 ** github.com/cespare/xxhash/v2; version v2.3.0 --
@@ -2013,7 +2013,7 @@ https://github.com/mailru/easyjson
 Copyright (c) 2016 Mail.Ru Group
 
 ** github.com/MakeNowJust/heredoc; version v1.0.0 --
-https://github.com/makenowjust/heredoc
+https://github.com/MakeNowJust/heredoc
 Copyright (c) 2014-2019 TSUYUSATO Kitsune
 
 ** github.com/Masterminds/semver/v3; version v3.4.0 --

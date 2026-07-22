@@ -114,7 +114,7 @@ https://github.com/docker/cli
 https://github.com/envoyproxy/go-control-plane/envoy
 
 ** github.com/envoyproxy/protoc-gen-validate/validate; version v1.3.3 --
-https://github.com/bufbuild/protoc-gen-validate
+https://github.com/envoyproxy/protoc-gen-validate
 
 ** github.com/fluxcd/cli-utils/pkg; version v1.2.1 --
 https://github.com/fluxcd/cli-utils
@@ -1005,31 +1005,31 @@ https://github.com/FiloSottile/hpke
 https://github.com/golang/go
 
 ** golang.org/x/crypto; version v0.52.0 --
-https://golang.org/x/crypto
+https://go.googlesource.com/crypto
 
 ** golang.org/x/exp/slices; version v0.0.0-20251219203646-944ab1f22d93 --
-https://golang.org/x/exp
+https://go.googlesource.com/exp
 
 ** golang.org/x/net; version v0.55.0 --
-https://golang.org/x/net
+https://go.googlesource.com/net
 
 ** golang.org/x/oauth2; version v0.36.0 --
-https://golang.org/x/oauth2
+https://go.googlesource.com/oauth2
 
 ** golang.org/x/sync; version v0.20.0 --
-https://golang.org/x/sync
+https://go.googlesource.com/sync
 
 ** golang.org/x/sys; version v0.45.0 --
-https://golang.org/x/sys
+https://go.googlesource.com/sys
 
 ** golang.org/x/term; version v0.43.0 --
-https://golang.org/x/term
+https://go.googlesource.com/term
 
 ** golang.org/x/text; version v0.37.0 --
-https://golang.org/x/text
+https://go.googlesource.com/text
 
 ** golang.org/x/time/rate; version v0.15.0 --
-https://golang.org/x/time
+https://go.googlesource.com/time
 
 Copyright 2009 The Go Authors.
 

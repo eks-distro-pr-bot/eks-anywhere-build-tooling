@@ -1,2 +1,2 @@
-cdbae594964f89dd850f1210739317dbecbf869fbd027af4622c8589e7ebf623  _output/bin/image-builder/linux-amd64/image-builder
-d0c8258872434dd09336e002789dd93b4a4d3f2747d5273e750bdfa9a6d06c77  _output/bin/image-builder/linux-arm64/image-builder
+db5b43c65af9fa0b720c3e843ec7abebda0e1b0a3c0b19fd2c9738e5d015d3e3  _output/bin/image-builder/linux-amd64/image-builder
+ae30401c6ba20dd42754979f548629acd0d4045762490993cc3015bc1a788505  _output/bin/image-builder/linux-arm64/image-builder

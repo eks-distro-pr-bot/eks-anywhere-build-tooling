@@ -1,2 +1,2 @@
-6b022058915cd307b6a926ef660e47d75ad8b6f2bac4a6aabd0a20484b31f357  _output/bin/kustomize-controller/linux-amd64/kustomize-controller
-ff29071faed51c5283237aa33c93acb86b8ea9825aae554da9da1c95a3bbf74f  _output/bin/kustomize-controller/linux-arm64/kustomize-controller
+5d352e838df37179a651ead07643336228420a990e7eb1623882d4ed010744e0  _output/bin/kustomize-controller/linux-amd64/kustomize-controller
+c0a2dd5b8e2fb602f1b212a858dc57fc60794179b72452cd977dc8b31a2c8591  _output/bin/kustomize-controller/linux-arm64/kustomize-controller

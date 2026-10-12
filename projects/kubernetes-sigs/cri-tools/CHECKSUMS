@@ -1,4 +1,4 @@
-b9c661472628e6a5a7a46fa834de81ab5daf0676c000ccc7f4eae6ae9261e843  _output/bin/cri-tools/linux-amd64/crictl
-5c1d23fe5f84c9038fc49adf0686e44e4f357a750d1a4e4b3487c8620b20ce9f  _output/bin/cri-tools/linux-amd64/critest
-7cb40d7a86196a9357a4fd76def843d137256d43ab8e7e36054793697c35b1da  _output/bin/cri-tools/linux-arm64/crictl
-c90bab2532bd8d09eeb389ca8eed76e967bcd6789e91c13cf7a55be6ff419d68  _output/bin/cri-tools/linux-arm64/critest
+c41b00495bf2d1f74041bb1d0d26247c0d05a5fdf9c5367b237ed73ffcdcdc71  _output/bin/cri-tools/linux-amd64/crictl
+96367c27217ce76972f2f49f2c1857977ba5b505a370736629641664b2863aba  _output/bin/cri-tools/linux-amd64/critest
+e9bf5c68bc29f47f1b5d7e3e100b855230e5894d51e23a56bb34ded06696a8d8  _output/bin/cri-tools/linux-arm64/crictl
+a1bef83f4dd2e9dfa026b6d94c99061b1f4e1463c4fd7002b3dd07ac19c1c211  _output/bin/cri-tools/linux-arm64/critest

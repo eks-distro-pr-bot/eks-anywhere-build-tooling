@@ -6,3 +6,11 @@ a031f316ce3cdee20d2c72195cb1626ea9b752882da13d93fc4313fc5d571165  _output/1-36/b
 92de6b8e63349e91f42c286c4794a40ff68fda0246ef57be24e1092f9e6ce1d5  _output/1-36/bin/containerd/linux-arm64/containerd-shim-runc-v2
 4dadd6c2801e8d2ec819c4f7f31bb03a11d2d217fffb090848270eb6d93a58a5  _output/1-36/bin/containerd/linux-arm64/containerd-stress
 953950f5eb183b6bfd67899a11c5373a48c070c951fe761937364ec858e4b820  _output/1-36/bin/containerd/linux-arm64/ctr
+37c50f11776f5d4021cfa4115b94d29789668873fac678eda848a2b85204f6d9  _output/1-36/bin/containerd/linux-amd64/containerd
+5e640797005df29acd689e106d3e4d6d8a0927009649163d4d2518a47874e8c1  _output/1-36/bin/containerd/linux-amd64/containerd-shim-runc-v2
+cb1dde927426739bbc123a7f5404bc85fffdca865b494194574acaa6ec8053a9  _output/1-36/bin/containerd/linux-amd64/containerd-stress
+75c082c3ab21672cf9fd6916b29035180c19e2bb76d96b9e01ca7697a4fce7f2  _output/1-36/bin/containerd/linux-amd64/ctr
+014ebeaf06d63e9474b2ef9769d6a171a5fea8461c0369d1bd8eafc49bd1a184  _output/1-36/bin/containerd/linux-arm64/containerd
+cb3eee5fdd5e87de1120f3accc48bbcb864969b57643405afd9606efc7371c5b  _output/1-36/bin/containerd/linux-arm64/containerd-shim-runc-v2
+c2c14f2161dd3118679bb6f2bbec990ddedd0172812a3af428d51ec5228d0509  _output/1-36/bin/containerd/linux-arm64/containerd-stress
+2f7a4396394ee30e3ad808e220dfa7990979f7ca8410552fb1ec5e623dac47af  _output/1-36/bin/containerd/linux-arm64/ctr

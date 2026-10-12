@@ -1,2 +1,2 @@
-85ca518fad8aea8b4f58b95aa5c9676f5f2fce1e32072d11650ce3db7f058046  _output/bin/govmomi/linux-amd64/govc
-a5f11c85e8cc25a019d498e4e55a57c21c8f7a8c82b1e19aba0c2054d2a5a5ef  _output/bin/govmomi/linux-arm64/govc
+14c8e023c24c994dca24ef9182a55b866c17bf6d99801a04d176f0074214ab9a  _output/bin/govmomi/linux-amd64/govc
+3414098edc4542c824254b20346e080a938af02f189eacfbff2befd5dcffd2f8  _output/bin/govmomi/linux-arm64/govc

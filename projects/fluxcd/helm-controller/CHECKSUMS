@@ -1,2 +1,2 @@
-be8163b7f5ce094ab76176a951612a9aba231323a796be6dbacac86f2fd12d26  _output/bin/helm-controller/linux-amd64/helm-controller
-ac94f6504b383b81c8ed2028a5acdc72fefcab6477bdf76605b447baa74eee96  _output/bin/helm-controller/linux-arm64/helm-controller
+3a08e446db983ae13844fb3f1cc21552d5f052eb0877588a13bfab6b3b1653eb  _output/bin/helm-controller/linux-amd64/helm-controller
+230ab896bdcb1c706964db5ad261056b12b656a1561d0f968614000e048558f7  _output/bin/helm-controller/linux-arm64/helm-controller
